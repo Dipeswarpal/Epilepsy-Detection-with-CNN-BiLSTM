@@ -22,7 +22,7 @@ This project focuses on detecting epileptic seizures using a hybrid deep learnin
 
 - Model Architecture:
 
-![Model Architecture](epilepsy_figures/model_architecture.png)
+![Distribution of Feature Mean and Feature STD](Mean_Feature.png)
 
 ---
 
@@ -39,6 +39,7 @@ This project focuses on detecting epileptic seizures using a hybrid deep learnin
 - **Accuracy & Loss Curve**:
 
 ![Training and Validation Accuracy & Loss](accuracy_loss_plot.png)
+![Boxplot of Accuracy & Loss](Box_plot.png)
 
 ---
 
@@ -50,19 +51,9 @@ This project focuses on detecting epileptic seizures using a hybrid deep learnin
 
 - **Classification Report**:
 
-![Classification Report](classification_report.png)
+![Model Comparison Report](accuracy_Comp.png)
 
 ---
-
-- **ROC Curve**:
-
-![ROC Curve](roc_curve.png)
-
----
-
-- **Precision-Recall Curve**:
-
-![Precision Recall Curve](precision_recall_curve.png)
 
 ---
 
