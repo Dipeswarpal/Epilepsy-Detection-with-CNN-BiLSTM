@@ -22,7 +22,7 @@ This project focuses on detecting epileptic seizures using a hybrid deep learnin
 
 - Model Architecture:
 
-![Model Architecture](model_architecture.png)
+![Model Architecture](epilepsy_figures/model_architecture.png)
 
 ---
 
