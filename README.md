@@ -40,6 +40,7 @@ This project focuses on detecting epileptic seizures using a hybrid deep learnin
 - **Accuracy & Loss Curve**:
 
 ![Training and Validation Accuracy & Loss](accuracy_loss_plot.png)
+- **Box Plot of Accuracy & Loss Curve**:
 ![Boxplot of Accuracy & Loss](Box_plot.png)
 
 ---
