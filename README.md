@@ -54,7 +54,7 @@ This project focuses on detecting epileptic seizures using a hybrid deep learnin
 
 ---
 
-- **Classification Report**:
+- **Model Comparison Report**:
 
 ![Model Comparison Report](accuracy_Comp.png)
 
