@@ -20,6 +20,8 @@ This project focuses on detecting epileptic seizures using a hybrid deep learnin
 - **BiLSTM Layer**: Capture bidirectional temporal dependencies.
 - **Dense Layers**: Perform final classification into 5 output classes.
 - Model Architecture:
+
+  
 ![Model Architecture](model_architecture.png)
 
 
