@@ -19,8 +19,9 @@ This project focuses on detecting epileptic seizures using a hybrid deep learnin
 - **CNN Layers**: Extract local temporal features from EEG signals.
 - **BiLSTM Layer**: Capture bidirectional temporal dependencies.
 - **Dense Layers**: Perform final classification into 5 output classes.
-
 - Model Architecture:
+- 
+- Distribution of Feature Mean and Feature STD:
 
 ![Distribution of Feature Mean and Feature STD](Mean_Feature.png)
 
