@@ -20,7 +20,9 @@ This project focuses on detecting epileptic seizures using a hybrid deep learnin
 - **BiLSTM Layer**: Capture bidirectional temporal dependencies.
 - **Dense Layers**: Perform final classification into 5 output classes.
 - Model Architecture:
-- 
+![Model Architecture](model_architecture.png)
+
+
 - Distribution of Feature Mean and Feature STD:
 
 ![Distribution of Feature Mean and Feature STD](Mean_Feature.png)
@@ -86,20 +88,6 @@ pip install -r requirements.txt
 ```
 
 ---
-
-##  Files
-
-- `epilepsy-detection-3-cnn-bilstm.ipynb`: Jupyter notebook with model implementation
-- `model_architecture.png`: Visual representation of the CNN + BiLSTM model
-- `confusion_matrix.png`: Confusion matrix for test set
-- `accuracy_loss_plot.png`: Training and validation accuracy/loss graphs
-- `classification_report.png`: Classification report heatmap
-- `roc_curve.png`: ROC curve per class
-- `precision_recall_curve.png`: Precision-recall curve per class
-- `requirements.txt`: All required libraries
-
----
-
 ##  References
 
 - [Epileptic Seizure Recognition Dataset - Kaggle](https://www.kaggle.com/datasets/andrewmvd/epileptic-seizure-recognition)
